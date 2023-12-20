@@ -5,7 +5,7 @@ I just finished my Computer Vision, Robotics, and Machine Learning MSc at the [U
 
 ### ✨  Me in a nutshell:
 * My pronouns: She/Her
-* Love programming: Python, C/C++
+* Programming: Python, C/C++
 * 🔭 I’m currently working on image similarity and instance segmentation with rendering
 * 🌱 I’m currently learning git, math and theoretical ML, advanced python, and more ML related programming.
 * ⚡ Fun fact: I like recreating food from restaurants, listening to good music, and having a good laugh by watching [Running Man](https://programs.sbs.co.kr/en/enter/runningman/main).
