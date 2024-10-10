@@ -1,5 +1,5 @@
 ### Hi there, I am Lois! ✨
-#### I am a full-time Information Technology Officer (AI Researcher) at [the Philippine Space Agency](https://philsa.gov.ph/), working mostly on Computer Vision applications on satellite data. 🛰️🛰️👩‍💻👩‍💻
+#### I am a Project Technical Specialist IV (AI Researcher) at [the Philippine Space Agency](https://philsa.gov.ph/), working mostly on Computer Vision applications on satellite data. 🛰️🛰️👩‍💻👩‍💻
 ---
 I just finished my Computer Vision, Robotics, and Machine Learning MSc at the [University of Surrey](https://www.surrey.ac.uk/) with a dissertation focusing on the reliability assessment of computer vision models. I plan to take my PhD and focus it on improving the reliability of AI models against out-of-distribution (OOD) data through Domain Generalization and Continual Learning. 
 
