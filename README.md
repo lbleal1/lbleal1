@@ -6,7 +6,4 @@ I finished my Computer Vision, Robotics, and Machine Learning MSc at the [Univer
 ### ✨  Me in a nutshell:
 * My pronouns: She/Her
 * Programming: Python, C/C++
-* 🔭 I’m currently working on image similarity and instance segmentation with rendering
-* 🌱 I’m currently learning git, math and theoretical ML, advanced python, and more ML related programming.
-* Find me on: Twitter [@lbleal1](https://twitter.com/lbleal1), Medium [Lois Leal](https://lbleal1.medium.com/)
 
